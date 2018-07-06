@@ -1,2 +1,5 @@
 # dotnet_git_hook_sample
-Sample hook git for dotnet core
+
+Powershell script create pre-push hook for tests solution.
+
+./install.ps1
